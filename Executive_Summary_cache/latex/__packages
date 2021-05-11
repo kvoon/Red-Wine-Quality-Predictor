@@ -1,0 +1,15 @@
+base
+ggplot2
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+qtlcharts
+ggfortify
+sjPlot
+gridExtra
+stargazer
